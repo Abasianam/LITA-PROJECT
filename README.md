@@ -31,9 +31,7 @@ The sales data was analyzed and key insights were discovered, which include; Tot
 
 Below are pictorial representations of the key insights discovered for sales data. 
 
-![EXCEL PICTURES](https://github.com/user-attachments/assets/f3cc1813-0dc7-4753-8ce0-a35f810dbf7c)
 
-![EXCEL PICTURES](https://github.com/user-attachments/assets/48a1ba8f-6a44-4927-b64e-f8701c7d77b5)
 
 
 
