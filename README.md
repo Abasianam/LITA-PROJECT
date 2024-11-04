@@ -33,5 +33,5 @@ Below are pictorial representations of the key insights discovered for sales dat
 
 
 
-![SALES DATA MS EXCEL](https://github.com/Abasianam-attachments/assets/90b62090-ea76-4e1d-bcd0-0adfcd2de965)
+![SALES DATA MS EXCEL.jpg](https://github.com/Abasianam-LITA-PROJECT/assets/90b62090-ea76-4e1d-bcd0-0adfcd2de965)
 
