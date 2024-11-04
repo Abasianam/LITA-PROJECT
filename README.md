@@ -32,11 +32,6 @@ The sales data was analyzed and key insights were discovered, which include; Tot
 Below are pictorial representations of the key insights discovered for sales data. 
 
 
-![SALES DATA MS EXCEL](https://github.com/user-attachments/assets/4efcf818-1f66-42f5-bd63-3b3c5ee21176)
 
-
-
-
-
-
+![SALES DATA MS EXCEL](https://github.com/Abasianam-attachments/assets/90b62090-ea76-4e1d-bcd0-0adfcd2de965)
 
