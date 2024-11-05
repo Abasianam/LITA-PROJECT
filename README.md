@@ -34,10 +34,12 @@ regional breakdowns.
 # Discussion/Result
 
 The total number of customers was 9921. The total revenue was 2M. Top performing products were, hats and shoes. 
-The product with the highest sales was shoes, with a total of NGN 613,380. Southern region had the highest number of sales, 2,480.
+The product with the highest sales was shoes, with a total of 613,380. Southern region had the highest number of sales, 2,480.
 Ferbruary had the highest monthly sales totals for the current year, NGN 298,800. Southern region had the highest percentage of total sales, 44.1%. 
 
 # MS Excel 
+
+Displayed below is the pictorial representation of the sales data
 
 ![SALES DATA MS EXCEL](https://github.com/Abasianam/LITA-PROJECT/blob/main/SALES%20DATA%20MS%20EXCEL.jpg)
 
@@ -98,6 +100,8 @@ from [dbo].[CAPSTONE DATA]
 where orderdate >= '2024-06-01' AND Orderdate <= '2024-08-31')
 
 # Power BI
+
+Below is the Power BI dashboard displayed for sales data
     
   ![Power BI visualisation](https://github.com/Abasianam/LITA-PROJECT/blob/main/Power%20BI%20visualisation.jpg)
 
