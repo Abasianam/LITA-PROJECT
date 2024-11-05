@@ -37,9 +37,65 @@ Below are pictorial representations of the key insights discovered.
 ![SALES DATA MS EXCEL](https://github.com/Abasianam/LITA-PROJECT/blob/main/SALES%20DATA%20MS%20EXCEL.jpg)
 
 
+# SQL
+I executed some queries to discover key insights of the data. The queries are displayed below:
 
-![Column Chart](https://github.com/Abasianam/LITA-PROJECT/blob/main/Column%20Chart.jpg)
+select * from   [dbo].[CAPSTONE DATA]
 
+-----------retrieve the total sales for each product category------
+
+select product, sum (Total_Sales) as Total_Sales from [dbo].[CAPSTONE DATA]
+Group By Product
+
+-------find the number of sales transactions in each region----
+
+Select Region, COUNT(OrderID)
+AS No_of_Sales_Transaction from [dbo].[CAPSTONE DATA]
+Group By Region
+
+------find the highest-selling product by total sales value--------
+
+Select Product, Sum (Total_Sales) As Highest_Selling from [dbo].[CAPSTONE DATA]
+Group By Product
+Order By 2 Desc
+
+----calculate total revenue per product-------
+
+select product, sum (Total_Sales) as Total_Revenue from [dbo].[CAPSTONE DATA]
+Group By Product
+
+-----calculate monthly sales totals for the current year-----
+
+Select Orderdate, Sum (Total_Sales) as Monthly_sales from [dbo].[CAPSTONE DATA]
+Where Orderdate between '2024-01-01' and '2024-12-31'
+Group By Orderdate
+Order By Orderdate
+
+-----find the top 5 customers by total purchase amount----
+
+Select TOP 5 Customer_ID, SUM (Total_Sales) as Total_Purchase from [dbo].[CAPSTONE DATA]
+Group By Customer_ID
+Order By Total_Purchase Desc
+
+---------calculate the percentage of total sales contributed by each region--------
+
+With Region AS (Select Region, Sum (Total_Sales) AS Sales from [dbo].[CAPSTONE DATA]
+Group By Region)
+Select Region, (Sales * 100.0 / (Select Sum (Total_Sales) from [dbo].[CAPSTONE DATA])) AS Sales_Percentage From Region
+
+
+------identify products with no sales in the last quarter-----
+
+Select product from [dbo].[CAPSTONE DATA]
+where product NOT IN (
+SELECT PRODUCT 
+from [dbo].[CAPSTONE DATA]
+where orderdate >= '2024-06-01' AND Orderdate <= '2024-08-31')
+
+# Power BI
+
+  
+![Power BI visualisation](https://github.com/user-attachments/assets/67058485-6765-444f-a827-80ffd0cb1b9e)
 
 
 
