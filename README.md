@@ -41,6 +41,7 @@ Ferbruary had the highest monthly sales totals for the current year, NGN 298,800
 
 Displayed below is the pictorial representation of the sales data
 
+
 ![SALES DATA MS EXCEL](https://github.com/Abasianam/LITA-PROJECT/blob/main/SALES%20DATA%20MS%20EXCEL.jpg)
 
 
@@ -102,6 +103,7 @@ where orderdate >= '2024-06-01' AND Orderdate <= '2024-08-31')
 # Power BI
 
 Below is the Power BI dashboard displayed for sales data
+
     
   ![Power BI visualisation](https://github.com/Abasianam/LITA-PROJECT/blob/main/Power%20BI%20visualisation.jpg)
 
