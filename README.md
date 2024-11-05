@@ -7,6 +7,10 @@ dashboard that highlights these findings.
 
 # Tools Used 
 # MS Excel
+
+![SALES DATA MS EXCEL](https://github.com/user-attachments/assets/4a82e99e-f163-4377-ae3e-23dfb2cde6e5)
+
+
  
  - Duplicates were found in the data and deleted.
   
@@ -96,4 +100,7 @@ where orderdate >= '2024-06-01' AND Orderdate <= '2024-08-31')
 
 # Power BI
     
+  ![Power BI visualisation](https://github.com/user-attachments/assets/0714a684-e5c4-4add-bf56-1af994da980f)
+
   
+
