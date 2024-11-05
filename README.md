@@ -36,11 +36,12 @@ Below are pictorial representations of the key insights discovered.
 
 ![SALES DATA MS EXCEL](https://github.com/Abasianam/LITA-PROJECT/blob/main/SALES%20DATA%20MS%20EXCEL.jpg)
 
-![Column Chart](https://github.com/Abasianam/LITA-PROJECT/blob/main/SALES%20DATA%20MS%20EXCEL.jpg)
+
+
+![Column Chart](https://github.com/Abasianam/LITA-PROJECT/blob/main/Column%20Chart.jpg)
 
 
 
-# Power BI
 
 
 
