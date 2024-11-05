@@ -35,13 +35,8 @@ Below are pictorial representations of the key insights discovered.
 # MS Excel
 
 
-![SALES DATA MS EXCEL](https://github.com/Abasianam/LITA-PROJECT/blob/f0cc6cebb06b2ecaadf3fc7c321f457ed3808b1f/SALES%20DATA%20MS%20EXCEL.jpg)
 
 ![SALES DATA MS EXCEL](https://github.com/Abasianam/LITA-PROJECT/blob/main/SALES%20DATA%20MS%20EXCEL.jpg)
-
-
-![Total Revenue by Region](https://github.com/Putsim/LITA_Capstone_Project/blob/main/Total%20Revenue%20by%20Region.png)
-
 
 
 
