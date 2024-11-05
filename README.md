@@ -29,11 +29,17 @@ The sales data was analyzed and key insights were discovered, which include; Tot
 
  
 
-Below are pictorial representations of the key insights discovered for sales data. 
+Below are pictorial representations of the key insights discovered.
 
 
+# MS Excel
 
-![SALES DATA MS EXCEL.jpg](https://github.com/Abasianam-LITA-PROJECT/assets/90b62090-ea76-4e1d-bcd0-0adfcd2de965)
+
+![SALES DATA MS EXCEL](https://github.com/Abasianam/LITA-PROJECT/blob/f0cc6cebb06b2ecaadf3fc7c321f457ed3808b1f/SALES%20DATA%20MS%20EXCEL.jpg)
+
+![SALES DATA MS EXCEL](https://github.com/Abasianam/LITA-PROJECT/blob/main/SALES%20DATA%20MS%20EXCEL.jpg)
 
 
-![SALES DATA MS EXCEL.jpg](https://github.com/Abasianam/LITA-PROJECT/blob/f0cc6cebb06b2ecaadf3fc7c321f457ed3808b1f/SALES%20DATA%20MS%20EXCEL.jpg)
+![Total Revenue by Region](https://github.com/Putsim/LITA_Capstone_Project/blob/main/Total%20Revenue%20by%20Region.png)
+
+
