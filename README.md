@@ -34,8 +34,6 @@ Below are pictorial representations of the key insights discovered.
 
 # MS Excel
 
-
-
 ![SALES DATA MS EXCEL](https://github.com/Abasianam/LITA-PROJECT/blob/main/SALES%20DATA%20MS%20EXCEL.jpg)
 
 
