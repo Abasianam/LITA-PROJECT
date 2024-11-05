@@ -43,6 +43,9 @@ Ferbruary had the highest monthly sales totals for the current year, NGN 298,800
 
 # MS Excel 
 
+![SALES DATA MS EXCEL](https://github.com/Abasianam/LITA-PROJECT/blob/main/SALES%20DATA%20MS%20EXCEL.jpg)
+
+
 # SQL
 
 The following queries were executed to discover key insights:
