@@ -43,3 +43,8 @@ Below are pictorial representations of the key insights discovered.
 ![Total Revenue by Region](https://github.com/Putsim/LITA_Capstone_Project/blob/main/Total%20Revenue%20by%20Region.png)
 
 
+
+
+
+
+
