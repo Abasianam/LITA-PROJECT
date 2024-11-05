@@ -37,6 +37,7 @@ Below are pictorial representations of the key insights discovered.
 ![SALES DATA MS EXCEL](https://github.com/Abasianam/LITA-PROJECT/blob/main/SALES%20DATA%20MS%20EXCEL.jpg)
 
 
+
 # SQL
 I executed some queries to discover key insights of the data. The queries are displayed below:
 
