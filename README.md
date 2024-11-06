@@ -35,7 +35,7 @@ regional breakdowns.
 
 The total number of customers was 9921. The total revenue was 2M. Top performing products were, hats and shoes. 
 The product with the highest sales was shoes, with a total of 613,380. Southern region had the highest number of sales, 2,480.
-Ferbruary had the highest monthly sales totals for the current year, NGN 298,800. Southern region had the highest percentage of total sales, 44.1%. 
+Ferbruary had the highest monthly sales totals for the current year, 298,800. Southern region had the highest percentage of total sales, 44.1%. 
 
 # MS Excel 
 
